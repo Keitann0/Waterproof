@@ -7,4 +7,5 @@ Repositorio dedicado al proyecto de la empresa INTEGRADORA. Waterproof es un mar
   <li>CSS</li>
   <li>Bootstrap</li>
   <li>jQuery</li>
+  <li>React</li>
 </ul>
